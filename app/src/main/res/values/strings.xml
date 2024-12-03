@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">1.1</string>
+    <string name="Title">Age calculator</string>
+    <string name="introduceData">Introduce a date(day, month and year):</string>
+    <string name="Mes">Month</string>
+    <string name="Any">Year</string>
+    <string name="error_num">Introduce a valid number, please.</string>
+    <string name="Calcular">Calculate</string>
+    <string name="futur">The date you given is in the future.</string>
+    <string name="dies">days.</string>
+    <string name="passat">It have been</string>
+    <string name="creator">App created by: Ferran Garcia Garcia</string>
+    <string name="Dia">Day</string>
+    <string name="anys">years</string>
+    <string name="mesosy">month and</string>
+</resources>

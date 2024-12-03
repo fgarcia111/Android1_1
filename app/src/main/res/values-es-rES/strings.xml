@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">1.1</string>
+    <string name="Title">Calculadora de edad</string>
+    <string name="introduceData">Introduce la fecha (día, mes y año):</string>
+    <string name="Dia">Día</string>
+    <string name="Mes">Mes</string>
+    <string name="Any">Año</string>
+    <string name="dies">días.</string>
+    <string name="passat">Han pasado</string>
+    <string name="creator">Aplicacion desenvolupada por: Ferran Garcia Garcia</string>
+    <string name="error_num">Por favor, introduce números válidos.</string>
+    <string name="Calcular">Calcular</string>
+    <string name="futur">La fecha proporcionada está en el futuro.</string>
+    <string name="anys">años</string>
+    <string name="mesosy">meses y</string>
+</resources>

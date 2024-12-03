@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">1.1</string>
+    <string name="Title">Calculadora d\'edat</string>
+    <string name="introduceData">Introduiex la data (dia, mes i any):</string>
+    <string name="Dia">Dia</string>
+    <string name="Mes">Mes</string>
+    <string name="Any">Any</string>
+    <string name="error_num">Siusplau, introdueix nombres valids.</string>
+    <string name="passat">Han passat</string>
+    <string name="Calcular">Calcular</string>
+    <string name="futur">La data proporcionada esta en el futur.</string>
+    <string name="dies">" dies."</string>
+    <string name="creator">Aplicació desenvolupada per: Ferran Garcia Garcia</string>
+    <string name="anys">anys</string>
+    <string name="mesosy">mesos i</string>
+</resources>
